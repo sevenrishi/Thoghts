@@ -1,0 +1,19 @@
+.box{
+    margin: 150px;
+}
+.box1{
+    background-color: red;
+}
+.box1 img{
+    width: fit-content;
+}
+.box2{
+    height: 200px;
+    background-color: blue;
+    padding-top: 90px;
+}
+.box3{
+    height: 200px;
+    background-color: yellow;
+    padding-top: 90px;
+}
